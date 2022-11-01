@@ -67,22 +67,22 @@
         "cligen": "cligen",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-bu-main": "src-bu-main"
+        "src-bu-0_3_0": "src-bu-0_3_0"
       }
     },
-    "src-bu-main": {
+    "src-bu-0_3_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1667233186,
-        "narHash": "sha256-DTla/op6/ppdvApZLq0aPv3ZdVW7Oec3C2Rgr/KB1W4=",
+        "lastModified": 1665411234,
+        "narHash": "sha256-zMUh4k1KrHoPSyD1d58779VqIirFTqMJWkSvs4FCg/U=",
         "owner": "c-blake",
         "repo": "bu",
-        "rev": "e0f32d9de2823556bb5cdad4bd5973abb965f211",
+        "rev": "3b305bce96c5fadebf969500e27c6cc9661b0002",
         "type": "github"
       },
       "original": {
         "owner": "c-blake",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.3.0",
         "repo": "bu",
         "type": "github"
       }
